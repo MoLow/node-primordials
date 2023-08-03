@@ -4,6 +4,7 @@
 !/typedoc.json
 !/src
 !/docs
+!/dist
 !/package.json
 !/package-lock.json
 !/README.md
